@@ -1,0 +1,28 @@
+
+@media (max-width: 1200px) {
+    .container {
+        display: block;
+        margin: 1rem;
+    }
+
+    .card {
+        margin-bottom: 5rem;
+    }
+
+    .info-small {
+        font-size: .8;
+    }
+
+    .card-1-info-small {
+        margin-top: 10rem;
+    }
+}
+
+@media (min-width: 450px) {
+
+    .card-1-info-small {
+        margin-top: 5rem;
+    }
+}
+
+
